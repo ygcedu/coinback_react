@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coinback_react-website/static/css/main.a08a9d37.chunk.css",
+    "main.js": "/coinback_react-website/static/js/main.35ebe93c.chunk.js",
+    "main.js.map": "/coinback_react-website/static/js/main.35ebe93c.chunk.js.map",
+    "runtime-main.js": "/coinback_react-website/static/js/runtime-main.bd83ba7f.js",
+    "runtime-main.js.map": "/coinback_react-website/static/js/runtime-main.bd83ba7f.js.map",
+    "static/js/2.b26f74a4.chunk.js": "/coinback_react-website/static/js/2.b26f74a4.chunk.js",
+    "static/js/2.b26f74a4.chunk.js.map": "/coinback_react-website/static/js/2.b26f74a4.chunk.js.map",
+    "index.html": "/coinback_react-website/index.html",
+    "static/css/main.a08a9d37.chunk.css.map": "/coinback_react-website/static/css/main.a08a9d37.chunk.css.map",
+    "static/js/2.b26f74a4.chunk.js.LICENSE.txt": "/coinback_react-website/static/js/2.b26f74a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd83ba7f.js",
+    "static/js/2.b26f74a4.chunk.js",
+    "static/css/main.a08a9d37.chunk.css",
+    "static/js/main.35ebe93c.chunk.js"
+  ]
+}
